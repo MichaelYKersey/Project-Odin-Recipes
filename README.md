@@ -9,3 +9,5 @@ HTML elements to be used
 - images
 - unordered lists
 - ordered lists
+
+[view with github pages](https://michaelykersey.github.io/Project-Odin-Recipes/)
